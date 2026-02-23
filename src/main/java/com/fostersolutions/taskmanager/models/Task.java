@@ -13,7 +13,7 @@ import java.util.Date;
 @Setter
 public class Task {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(nullable = false)
     private Long id;
 
@@ -23,6 +23,6 @@ public class Task {
 
     private String title;
     private String description;
-    private boolean completed = false;
+    private String status;
 
 }
