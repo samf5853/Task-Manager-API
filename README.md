@@ -8,9 +8,10 @@ A production-ready backend API for user authentication and personal task managem
 
 ## 🔗 Live Deployment
 
-**Backend Base URL:** `https://YOUR-BACKEND-DEPLOYMENT-LINK-HERE`
+**Backend Base URL:** https://task-manager-api-5853.up.railway.app
 
-> Replace the URL above with your deployed backend link (Render, Railway, Fly.io, AWS, etc.) so recruiters can test your API immediately.
+**Full-Stack URL:** https://my-task-manager-frontend.netlify.app or https://quicktasktracker.org
+
 
 ### Quick Recruiter Links
 - **Frontend Repository:** https://github.com/samf5853/task-manager-frontend
@@ -213,14 +214,6 @@ When deploying this backend, configure the same environment variables in your ho
 - `JWT_EXPIRATION`
 - `CORS_ALLOWED_ORIGINS`
 
-Once deployed, update this README section:
-
-```text
-Backend Base URL: https://YOUR-BACKEND-DEPLOYMENT-LINK-HERE
-```
-
-So recruiters can directly test your live API.
-
 ---
 
 ## 👤 Portfolio / Resume Context
@@ -238,4 +231,5 @@ If you’re reviewing this for hiring purposes, this repository showcases practi
 
 ## 📬 Contact
 
-If you want, you can add your LinkedIn, portfolio website, and email here so recruiters can contact you directly.
+`LinkedIn` `www.linkedin.com/in/samuel-foster-jr`
+`Email` `samf5853@gmail.com`
