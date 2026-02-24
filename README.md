@@ -232,4 +232,5 @@ If you’re reviewing this for hiring purposes, this repository showcases practi
 ## 📬 Contact
 
 `LinkedIn` `www.linkedin.com/in/samuel-foster-jr`
+
 `Email` `samf5853@gmail.com`
